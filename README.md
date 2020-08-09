@@ -1,2 +1,2 @@
 # Springreactive
-training
+training project
